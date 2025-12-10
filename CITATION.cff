@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Unified Spectrum Methods – Unified Analytical Framework"
+version: "1.0"
+doi: "10.5281/zenodo.17873216"
+authors:
+  - family-names: "Arslan"
+    given-names: "Muhammad"
+date-released: "2024-01-01"
+type: book
